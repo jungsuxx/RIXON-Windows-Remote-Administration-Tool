@@ -57,7 +57,7 @@ By downloading, compiling, or using this software, you agree that:
 
 ## Screenshots
 
-*(Coming soon)*
+![Server UI](https://i.ibb.co/9kv8p4kp/image.png)
 
 ---
 
